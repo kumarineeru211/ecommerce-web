@@ -17,21 +17,8 @@ An ecommerce store built with MERN stack, and utilizes third party API's. This e
   * Redux to manage application's state
   * Redux Thunk middleware to handle asynchronous redux actions
 
-## Quickstart Guide
 
-To run this project locally you can use docker compose provided in the repository. Here is a guide on how to run this project locally using docker compose.
 
-Clone the repository
-```
-$ git clone https://github.com/Moon-newWarrior/MERN-eCommerce-Learning-Project.git
-```
-
-Edit the dockercompose.yml file and update the the values for MONGO_URI and JWT_SECRET
-
-Then simply start the docker compose:
-```
-$ docker compose -f dockercompose.yml up
-```
 
 ## Database Seed
 
@@ -54,7 +41,7 @@ This application is deployed on Vercel Please check it out :smile: [here](https:
 Some basic Git commands are:
 
 ```
-$ git clone https://github.com/Moon-newWarrior/MERN-eCommerce-Learning-Project.git
+$ git clone https://github.com/kumarineeru211/ecommerce-web
 $ cd project
 $ npm install
 ```
